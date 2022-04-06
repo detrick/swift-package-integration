@@ -6,5 +6,6 @@
 //
 
 import Foundation
+import Foundation.NSLocale
 
 public func sayHi() -> String { "Hi" }
