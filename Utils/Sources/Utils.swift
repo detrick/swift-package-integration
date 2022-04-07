@@ -6,6 +6,7 @@
 //
 
 import Foundation
-import Foundation.NSLocale
 
-public func sayHi() -> String { "Hi" }
+public class Utils {
+  
+}
